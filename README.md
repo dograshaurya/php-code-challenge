@@ -18,12 +18,14 @@ The Service Catalogue CLI is a command-line tool designed to query and summarize
 **Usage:**
 1. **Query Services:**
 
+     ```
      php code.php query [COUNTRY_CODE]
      ```
    - Replace `[COUNTRY_CODE]` with the desired country code (e.g., FR for France).
    
 2. **Summary:**
  
+     ```
      php code.php summary
      ```
 
